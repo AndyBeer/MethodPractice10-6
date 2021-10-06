@@ -1,0 +1,14 @@
+C:\Users\abeer\source\repos\Practice Code\10-6 Practice - Methods\10-6 Practice - Methods\bin\Debug\netcoreapp3.1\10-6 Practice - Methods.exe
+C:\Users\abeer\source\repos\Practice Code\10-6 Practice - Methods\10-6 Practice - Methods\bin\Debug\netcoreapp3.1\10-6 Practice - Methods.deps.json
+C:\Users\abeer\source\repos\Practice Code\10-6 Practice - Methods\10-6 Practice - Methods\bin\Debug\netcoreapp3.1\10-6 Practice - Methods.runtimeconfig.json
+C:\Users\abeer\source\repos\Practice Code\10-6 Practice - Methods\10-6 Practice - Methods\bin\Debug\netcoreapp3.1\10-6 Practice - Methods.runtimeconfig.dev.json
+C:\Users\abeer\source\repos\Practice Code\10-6 Practice - Methods\10-6 Practice - Methods\bin\Debug\netcoreapp3.1\10-6 Practice - Methods.dll
+C:\Users\abeer\source\repos\Practice Code\10-6 Practice - Methods\10-6 Practice - Methods\bin\Debug\netcoreapp3.1\10-6 Practice - Methods.pdb
+C:\Users\abeer\source\repos\Practice Code\10-6 Practice - Methods\10-6 Practice - Methods\obj\Debug\netcoreapp3.1\10-6 Practice - Methods.csproj.AssemblyReference.cache
+C:\Users\abeer\source\repos\Practice Code\10-6 Practice - Methods\10-6 Practice - Methods\obj\Debug\netcoreapp3.1\10-6 Practice - Methods.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\abeer\source\repos\Practice Code\10-6 Practice - Methods\10-6 Practice - Methods\obj\Debug\netcoreapp3.1\10-6 Practice - Methods.AssemblyInfoInputs.cache
+C:\Users\abeer\source\repos\Practice Code\10-6 Practice - Methods\10-6 Practice - Methods\obj\Debug\netcoreapp3.1\10-6 Practice - Methods.AssemblyInfo.cs
+C:\Users\abeer\source\repos\Practice Code\10-6 Practice - Methods\10-6 Practice - Methods\obj\Debug\netcoreapp3.1\10-6 Practice - Methods.csproj.CoreCompileInputs.cache
+C:\Users\abeer\source\repos\Practice Code\10-6 Practice - Methods\10-6 Practice - Methods\obj\Debug\netcoreapp3.1\10-6 Practice - Methods.dll
+C:\Users\abeer\source\repos\Practice Code\10-6 Practice - Methods\10-6 Practice - Methods\obj\Debug\netcoreapp3.1\10-6 Practice - Methods.pdb
+C:\Users\abeer\source\repos\Practice Code\10-6 Practice - Methods\10-6 Practice - Methods\obj\Debug\netcoreapp3.1\10-6 Practice - Methods.genruntimeconfig.cache
